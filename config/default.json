@@ -1,6 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://mongocredentials go here.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "",
-  "githubClientId": "",
-  "githubSecret": ""
+  "mongoURI": "mongodb+srv://CoxConn1:coxDRC7756b@cluster0-ljj66.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretoftoken",
+  "githubClientId": "85ff5d11f6e219f220ea",
+  "githubSecret": "98496bfc037ab78033156f0b8116fa01da9bbee5"
 }
